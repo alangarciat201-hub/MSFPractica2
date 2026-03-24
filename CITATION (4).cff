@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Practica2: Sistema cardiovascular'
+message: Modelado de sistemas fisiologicos
+type: software
+authors:
+  - given-names: 'Alan Omar '
+    family-names: Garcia Toledo
+    email: alan.garciat2021@tectijuana.edu.mx
+identifiers:
+  - type: url
+    value: 'https://github.com/alangarciat201-hub/MSFPractica2'
+    description: Respositorio de github
+repository-code: 'https://github.com/alangarciat201-hub/MSFPractica2'
+keywords:
+  - 'Sistema '
+  - Control
+  - PID
+  - 'Hipotenso '
+  - 'Hipertenso '
+  - Normotenso
+license: BSD-2-Clause
+version: '1'
+date-released: '2026-03-23'
