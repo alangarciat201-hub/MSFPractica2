@@ -4,7 +4,7 @@
 
 ## Información de la estudiante
 
-Corina Plata-Ante \[03210981]; corina.plata@tectijuana.edu.mx
+Garcia Toledo Alan Omar  \[20210787]; alan.garciat201@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
@@ -39,7 +39,7 @@ El modelo de Windkessel de cuatro elementos contiene dos elementos dinámicos. P
 
 2\. Existe una clara analogía entre los elementos eléctricos y los componentes hidráulicos implicados en el efecto Windkessel. En consecuencia, se relacionan fácilmente con el significado hemodinámico y el acoplamiento ventrículo-arterial.
 
-Palabras clave: ???; ???; ???; ???; ???
+Palabras clave: Sistema, Hipotenso, Hipertenso, Cardio vascular 
 
 ## Lista de archivos incluidos en el repositorio
 
