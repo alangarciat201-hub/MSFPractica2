@@ -2,7 +2,7 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: 'Práctica: Diseño de controlador'
+title: 'Práctica2: Sistema carciovascular'
 message: Modelado de Sistemas Fisiológicos/Ingeniería Biomédica
 type: software
 authors:
@@ -16,13 +16,13 @@ authors:
     region: Baja California
     alias: Toledo
     email: alan.garciat201@tectijuana.edu.mx
-    date-start: '2026-02-24'
+    date-start: '2026-03-23'
 identifiers:
   - type: url
-    value: 'https://github.com/alangarciat201-hub/MSFPractica1'
-repository-code: 'https://github.com/alangarciat201-hub/MSFPractica1'
+    value: 'https://github.com/alangarciat201-hub/MSFPractica2'
+repository-code: 'https://github.com/alangarciat201-hub/MSFPractica2'
 keywords:
-  - Diseño de controladores
+  - Sistema cardiovascular
   - Circuito RLC
   - Controlador PID
   - Modelo matemático
